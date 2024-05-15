@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(19, 153, 158);
+    color: rgb(245, 239, 239);
+    font-size: 0.5 rem;
+    text-align: center;
+    
+}
+.container{
+    margin-top: 10px;
+   
+
+}
+.formdata{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row; 
+}
+
+
+    
+input{
+    display: flex;
+    flex-direction: row;
+    height: 2.5rem;
+    width: 15rem;
+    margin-left: 15px;
+    border-radius: 17px;
+    box-shadow: 3px 3px 3px black;
+}
+img{
+    width:35rem;
+    height: 20rem;
+    border-radius: 50px;
+    box-shadow: 3px 3px 3px black;
+}
+#subbut{
+    display: block;
+    text-align: center;
+}
+button{
+    height: 2rem;
+    width: 15rem;
+    border-radius: 23px;
+    box-shadow: 3px 3px 3px;
+}
+label{
+    color: white;
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.result{
+    color: white;
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
